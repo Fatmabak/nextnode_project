@@ -1,0 +1,13 @@
+// styles/custom-bootstrap.scss
+// Variables Bootstrap customisées
+$primary: #ff5733;
+$secondary: #33cfff;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #7c8996;
+
+// Importer Bootstrap après les variables personnalisées
+@import "~bootstrap/scss/bootstrap";
